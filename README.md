@@ -1,46 +1,62 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=header"/>
+<h1 align="left">Mateus Fonseca</h1>
+<p align="left"><strong>Python Backend & GenAI Engineer</strong></p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=8DF788&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mateus+Fonseca!;" />
-</h1>
-
-<h3 align="center">I'm an undergraduate student in Computer Scientist at UFPB.</h3>
-
-<br/>
-
-<div align="center"> 
-  <a href="mailto:mateusfonsecafs@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/mateusfonseca000/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,flutter,dart,python,java,vscode,git" />
-</div>
-
-<br/>
-
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  
 <p align="left">
+  <a href="mailto:mateusfonsecafs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mateusfonsecafs%40gmail.com-333?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mateusfonsecafs/">
+    <img src="https://img.shields.io/badge/LinkedIn-mateusfonsecafs-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mateusfonsek">
+    <img src="https://img.shields.io/badge/GitHub-mateusfonsek-111?logo=github&logoColor=white" />
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusfonsek&show_icons=true&locale=en&layout=compact" alt="mateusfonsek" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusfonsek&show_icons=true&locale=en" alt="mateusfonsek" /></p>
+### Summary
+Computer Science @ UFPB (2022–2026). I build robust Python backends and GenAI systems: LLM orchestration (RAG, Text-to-SQL, MCP), asynchronous pipelines, and production observability (metrics, logs, tracing, alerting).
+
+---
+
+## Tech Stack
+
+### Backend
+<div>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,ruby" />
 </div>
+<p><strong>Python, Django, FastAPI, Flask, Ruby</strong></p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=footer"/>
+### Data & Messaging
+<div>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq" />
+</div>
+<p><strong>PostgreSQL · MySQL · MongoDB · Redis · RabbitMQ</strong></p>
+
+
+
+### Observability & Alerts
+<div>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</div>
+<p><strong>Prometheus, Grafana, Alertmanager</strong></p>
+
+### Infra & DevOps
+<div>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git" />
+</div>
+<p><strong>Docker, Kubernetes, Linux, Git</strong></p>
+
+
+### Languages
+<p><strong>Portuguese:</strong> Fluent &nbsp;•&nbsp; <strong>English:</strong> Intermediate</p>
+
+---
+
+## Experience (summary)
+- **GenAI / Backend:** LLM orchestration (RAG, Text-to-SQL, MCP), APIs with FastAPI/Django, asynchronous pipelines, caching, and persistence layers (SQL/NoSQL).
+- **Observability:** Metrics and alerting with Prometheus/Alertmanager, Grafana dashboards; incident automations.
+
+---
+
