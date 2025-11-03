@@ -26,7 +26,7 @@ Computer Science @ UFPB (2022–2026). I build robust Python backends and GenAI 
 <div>
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,ruby" />
 </div>
-<p><strong>Python, Django, FastAPI, Flask, Ruby</strong></p>
+<p><strong>Python · Django · FastAPI · Flask · Ruby</strong></p>
 
 ### Data & Messaging
 <div>
@@ -40,13 +40,13 @@ Computer Science @ UFPB (2022–2026). I build robust Python backends and GenAI 
 <div>
   <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </div>
-<p><strong>Prometheus, Grafana, Alertmanager</strong></p>
+<p><strong>Prometheus · Grafana · Alertmanager</strong></p>
 
 ### Infra & DevOps
 <div>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git" />
 </div>
-<p><strong>Docker, Kubernetes, Linux, Git</strong></p>
+<p><strong>Docker · Kubernetes · Linux · Git</strong></p>
 
 
 ### Languages
